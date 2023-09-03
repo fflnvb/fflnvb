@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- Currently working with another profile, see @jpfauatwork
+- Currently working with another profile, see [@jpfauatwork](https://github.com/jpfauatwork)
 <!--
 **fflnvb/fflnvb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
